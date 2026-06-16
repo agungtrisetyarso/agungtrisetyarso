@@ -34,9 +34,9 @@ Saya adalah peneliti yang fokus pada **quantum algorithms**, variational quantum
 
 ### 📫 Connect with Me
 - **X / Twitter**: [@trisetyarso](https://x.com/trisetyarso) (atau link Anda)
-- **Email**: [masukkan email Anda]
-- **Google Scholar / ORCID**: [link jika ada]
-- **LinkedIn**: [link jika ada]
+  
+- **Google Scholar / ORCID**: https://scholar.google.com/citations?user=tv0ma0MAAAAJ&hl=en
+  
 
 ---
 
