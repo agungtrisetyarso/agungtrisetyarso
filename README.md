@@ -3,7 +3,7 @@
 
 **Researcher | Quantum Computing & Optimization Enthusiast**
 
-Saya adalah peneliti yang fokus pada **quantum algorithms**, variational quantum optimization, resonant dynamics, dan aplikasi quantum-inspired models pada sistem kompleks seperti automation, multi-robot task allocation, dan smart grid.
+Peneliti yang fokus pada **quantum algorithms** (Ph.D, Keio University), variational quantum optimization, resonant dynamics, dan aplikasi quantum-inspired models pada sistem kompleks seperti automation, multi-robot task allocation, dan smart grid.
 
 ### 🔬 Research Highlights
 - **Fault-Tolerant Quantum Simulation** of multi-decadal resonant oscillations in automation-driven labour–capital substitution [](https://www.nature.com/)
