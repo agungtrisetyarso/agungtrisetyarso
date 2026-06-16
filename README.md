@@ -8,7 +8,7 @@ Peneliti yang fokus pada **quantum algorithms** (Ph.D, Keio University), variati
 ### 🔬 Research Highlights
 - **Fault-Tolerant Quantum Simulation** of multi-decadal resonant oscillations in automation-driven labour–capital substitution [](https://www.nature.com/)
 - **Variational Quantum Optimization for Multi-Robot Task Allocation** (NISQ-era feasibility) — [quantum_MRTA](https://github.com/agungtrisetyarso/quantum_MRTA)
-- **Quantum Resonant Automation** — Code & data for npj Quantum Information paper [](https://github.com/agungtrisetyarso/quantum-resonant-automation)
+- **Quantum Resonant Automation** —  [](https://github.com/agungtrisetyarso/quantum-resonant-automation)
 - Quantum-inspired models for insect task allocation, entropy analysis, dan smart grid dynamics
 
 ### 🛠️ Tech Stack & Tools
