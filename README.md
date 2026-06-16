@@ -23,8 +23,8 @@ Peneliti yang fokus pada **quantum algorithms** (Ph.D, Keio University), variati
 
 ### 🌟 Featured Projects
 - **[quantum_MRTA](https://github.com/agungtrisetyarso/quantum_MRTA)** — Variational Quantum Optimization for Multi-Robot Task Allocation
-- **[quantum-resonant-automation](https://github.com/agungtrisetyarso/quantum-resonant-automation)** — Resonant oscillations in automation (npj Quantum Information)
-- **[fault-tolerant-quantum-resonant-automation](https://github.com/agungtrisetyarso/fault-tolerant-quantum-resonant-automation)** — Nature Communications paper
+- **[quantum-resonant-automation](https://github.com/agungtrisetyarso/quantum-resonant-automation)** — Resonant oscillations in automation
+- **[fault-tolerant-quantum-resonant-automation](https://github.com/agungtrisetyarso/fault-tolerant-quantum-resonant-automation)** — 
 - **[quantum-resonant-insect-task-model](https://github.com/agungtrisetyarso/quantum-resonant-insect-task-model)** — Quantum-inspired model for Ooceraea biroi colonies
 - Dan lainnya di smart grid, entropy Lyapunov certificate, dll.
 
